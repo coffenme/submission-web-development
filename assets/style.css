@@ -120,7 +120,7 @@ h2, h3 {
 
  .top {
     width: 50%;
-    max-height: 300px;
+    max-height: 100px;
     object-position: left;
     float: left;
  }
