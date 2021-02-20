@@ -62,7 +62,7 @@ p{
  }
 
 nav{
-    background-color: #f3d7ca;
+    background-color: #f0d9ce;
     padding: 5px;
     width: 100%;
     display: flex;
@@ -182,8 +182,6 @@ section{
  footer {
     padding: 20px;
     color: white;
-    background-color: #f3d7ca;
+    background-color: #f0d9ce;
     text-align: center;
-    color: white; 
  }
- 
