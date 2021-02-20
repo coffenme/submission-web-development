@@ -36,11 +36,6 @@ h2, h3 {
  }
 
  .jumbotron {
-    font-size: 20px;
-    padding: 60px;
-    background-color: #00c8eb;
-    text-align: center;
-    color: white;
     margin: auto;
     position: relative;
     width: 1100px;
@@ -48,9 +43,9 @@ h2, h3 {
 
  nav {
     background-color: white;
+    padding: 5px;
     width: 100%;
     display: flex;
-    padding: 5px;
     position: sticky;
     position: -webkit-sticky;
     top: 0;
