@@ -41,7 +41,7 @@ h1  {
     width: 1100px;
  }
 
- header nav{
+ header, nav{
     background-color: white;
     padding: 5px;
     width: 100%;
@@ -125,10 +125,6 @@ h1  {
     object-position: left;
     float: left;
  }
- header {
-    display: inline;
- }
-
 .kolom{
     margin-top: 50px;
     margin-bottom: 50px;
