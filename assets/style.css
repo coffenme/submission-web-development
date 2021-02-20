@@ -16,7 +16,7 @@ h2, h3 {
    color: #00a2c6
 }
 
-.logo a {
+.logo  {
     font-size: 50px;
     font-weight: bold;
     float: left;
@@ -46,6 +46,7 @@ h2, h3 {
     padding: 5px;
     width: 100%;
     display: flex;
+    line-height: 80px;
     position: sticky;
     position: -webkit-sticky;
     top: 0;
@@ -120,6 +121,7 @@ h2, h3 {
 
  header {
     display: inline;
+    background-color: whitesmoke;
  }
 
  footer {
