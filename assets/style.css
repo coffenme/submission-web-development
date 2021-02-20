@@ -47,7 +47,7 @@ h2, h3 {
  }
 
  nav {
-    background-color: #00a2c6;
+    background-color: white;
     width: 100%;
     display: flex;
     padding: 5px;
@@ -67,12 +67,20 @@ h2, h3 {
  nav ul li{
      float: left;
  }
- 
- nav a:hover { 
+
+
+ nav ul li a{ 
     font-size: 18px;
     font-weight: bold;
     text-decoration: none;
+    text-align: center;
     color:black;
+    padding: 0px 16px 0px 16px;
+ }
+
+
+ nav ul li a:hover { 
+    text-decoration: underline;
  }
 
 
