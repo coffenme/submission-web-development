@@ -51,6 +51,7 @@ h2, h3 {
     position: -webkit-sticky;
     top: 0;
     margin: auto;
+    z-index: 1;
  }
 
  nav ul {
