@@ -36,6 +36,7 @@ h1  {
     color: #c86b85;
     margin-top: 0px;
     margin-bottom: 0px;
+    margin-left: 5px;
 }
 
 p{
@@ -103,6 +104,7 @@ section{
      margin:auto;
      display: flex;
      margin-bottom: 50px;
+     margin-left: 2px;
 }
 
 .kolom{
