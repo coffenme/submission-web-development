@@ -28,36 +28,6 @@ h2, h3 {
     float: right;
 }
  
-footer {
-   padding: 20px;
-   color: white;
-   background-color: #00a2c6;
-   text-align: center;
-   color: white; 
-}
-
-nav a:hover { 
-    font-size: 18px;
-    font-weight: bold;
-    text-decoration: none;
-    color: white;
- }
-
- .profile header {
-    text-align: center;
- }
-
- .profile img {
-    width: 200px;
- }
-
- .featured-image {
-    width: 100%;
-    max-height: 300px;
-    object-fit: cover;
-    object-position: center;
- }
-
  .card {
     box-shadow: 0 4px 8px 0 rgba(172, 146, 146, 0.2);
     border-radius: 5px;
@@ -71,12 +41,9 @@ nav a:hover {
     background-color: #00c8eb;
     text-align: center;
     color: white;
- }
-
- nav li {
-    display: inline;
-    list-style-type: none;
-    margin-right: 20px;
+    margin: auto;
+    position: relative;
+    width: 1100px;
  }
 
  nav {
@@ -87,7 +54,27 @@ nav a:hover {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
+    margin: auto;
  }
+
+ nav ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+ }
+
+ nav ul li{
+     float: left;
+ }
+ 
+ nav a:hover { 
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    color:black;
+ }
+
 
  #content {
     float: left;
@@ -112,6 +99,31 @@ nav a:hover {
     }
  }
 
+ .profile header {
+    text-align: center;
+ }
+
+ .profile img {
+    width: 200px;
+ }
+
+ .featured-image {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    object-position: center;
+ }
+
+
  header {
     display: inline;
  }
+
+ footer {
+    padding: 20px;
+    color: white;
+    background-color: #00a2c6;
+    text-align: center;
+    color: white; 
+ }
+ 
