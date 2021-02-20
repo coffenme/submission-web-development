@@ -36,7 +36,7 @@ h1  {
     color: #c86b85;
     margin-top: 0px;
     margin-bottom: 0px;
-    margin-left: 5px;
+    margin-left: 0px;
 }
 
 p{
@@ -104,12 +104,13 @@ section{
      margin:auto;
      display: flex;
      margin-bottom: 50px;
-     margin-left: 2px;
+     margin-left: 0px;
 }
 
 .kolom{
     margin-top: 50px;
     margin-bottom: 50px;
+    margin-left: 40px;
 }
 
 .kolom.uraian{
