@@ -15,7 +15,7 @@ main {
  }
  
 h2{
-    font-size: 45px;
+    font-size: 40px;
     color:#c86b85 ;
     font-weight: 800;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -29,11 +29,16 @@ h3 {
 }
 
 h1  {
-    font-size: 50px;
+    font-size: 70px;
     font-weight: bold;
     float: left;
     font-family:'RocknRoll One', sans-serif;
     color: #c86b85;
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .menu{
