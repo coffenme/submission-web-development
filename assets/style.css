@@ -161,8 +161,7 @@ a.tmb-next{
 
  @media screen and (max-width: 1000px) {
     nav.jumbotron{
-      width 85%;
-      display: block;
+      width 90%;
     }
     h1 {
       display: block;
@@ -196,7 +195,6 @@ a.tmb-next{
       height: auto;
    }
    footer{
-      display: block;
       width: 100%;
    }
     #content,
