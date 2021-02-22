@@ -1,0 +1,254 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+ 
+ 
+body {
+   font-family: 'Quicksand',sans-serif;
+   margin: 0;
+   padding: 0;
+   background-color: whitesmoke;
+}
+ 
+main {
+    padding: 20px;
+    overflow: auto;
+ }
+ 
+
+ h1  {
+   font-size: 60px;
+   font-weight: bold;
+   float: left;
+   font-family:'RocknRoll One', sans-serif;
+   color: #383e56;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   margin-left: 0px;
+} 
+h2{
+    font-size: 40px;
+    color:#28527a ;
+    font-weight: 800;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
+    line-height: 50px;
+    width: 100%;
+}
+ 
+h3 {
+   font-size: 30px;
+   color: #28527a
+}
+
+h4{
+   font-size: 30px;
+   color: #28527a
+   
+}
+
+p{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.menu{
+    float: right;
+}
+ 
+ .card {
+    box-shadow: 0 4px 8px 0 #9fb8ad;
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+ }
+
+ .jumbotron {
+    margin: auto;
+    position: relative;
+    width: 1100px;
+ }
+
+nav{
+    background-color: #a1cae2;
+    padding: 5px;
+    width: 100%;
+    display: flex;
+    line-height: 80px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+    margin: auto;
+    z-index: 1;
+ }
+
+ nav ul {
+     list-style-type: none;
+     margin: 0;
+     padding: 0;
+     overflow: hidden;
+ }
+
+ nav ul li{
+     float: left;
+ }
+
+
+ nav ul li a{ 
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    text-align: center;
+    color:black;
+    padding: 0px 16px 0px 16px;
+ }
+
+
+ nav ul li a:hover { 
+    text-decoration: underline;
+ }
+
+section{
+     margin:auto;
+     display: flex;
+     margin-bottom: 50px;
+     margin-left: 0px;
+     margin-top: 10px;
+}
+
+.kolom{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 40px;
+}
+
+.kolom.uraian{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #c86b85;
+}
+
+a.tmb-next{
+   background: lightblue;
+   border-radius: 20px;
+   margin-top: 20px;
+   padding: 15px 20px 15px 20px;
+   color: white;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.tmb-next:hover{
+   background: #9fb8ad;
+   text-decoration: none;
+
+}
+
+ #content {
+    float: left;
+    width: 60%;
+ }
+
+ aside {
+    float: right;
+    width: 30%;
+    padding-left: 20px;
+ }
+
+ * {
+    box-sizing: border-box;
+ }
+
+ .profile header {
+    text-align: center;
+ }
+
+ .profile img {
+    width: 200px;
+ }
+
+ .featured-image {
+    width: 60%;
+    max-height: 300px;
+    object-fit:contain;
+    object-position: left;
+ }
+
+ .top {
+    width: 50%;
+    max-height: 300px;
+    object-position: left;
+    float: left;
+ }
+ header {
+    display: inline;
+ }
+
+.kolom{
+    margin-top: 50px;
+    margin-bottom: 50px;
+  }
+.kolom.uraian{
+    font-size: 20px;
+    font-weight: bold;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #c86b85 ;
+}
+
+ footer {
+    padding: 20px;
+    color: #1e212d;
+    background-color: #a1cae2;
+    text-align: center;
+ }
+
+ @media screen and (max-width: 1000px) {
+   section{
+      display: block;
+      height: auto;
+   } 
+   section img{
+      display: inline-block;
+      width: 100%;
+   }
+   aside{
+      display: block;
+      margin: 0;
+      text-align: justify;
+      width: 110%;
+   }
+   h1,h3{
+      display: block;
+      margin: 0;
+      text-align: center;
+      width: 100%;
+   }
+   nav .menu{
+      margin: 0;
+      width: 100%;
+   }
+   nav .menu ul{
+      text-align: center;
+      margin: 0;
+      line-height: 40px;
+   }
+   nav .menu ul li{
+      display: inline-block;
+      float: none;
+   }
+   h2, h5{
+      display: block;
+      width: 80%;
+   }
+   .jumbotron{
+      width: 100%;
+      display: block;
+   }
+   nav, #content{
+        width: 100%;
+        padding: 0;
+        text-align: center;
+    }
+ }
+
+
