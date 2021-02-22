@@ -162,11 +162,14 @@ a.tmb-next{
  @media screen and (max-width: 1000px) {
    section{
       display: block;
-      align: center;
+      height: auto;
    } 
    section img{
       display: inline-block;
-
+   }
+   h2, h5{
+      display: block;
+      width: 100%;
    }
    
    nav, #content,
