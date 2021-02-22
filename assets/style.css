@@ -160,6 +160,9 @@ a.tmb-next{
  }
 
  @media screen and (max-width: 1000px) {
+    .jumbotron{
+      width 90%;
+    }
     h1 {
       display: block;
       width: 100%;
