@@ -162,9 +162,11 @@ a.tmb-next{
  @media screen and (max-width: 1000px) {
    section{
       display: block;
+      align: center;
    } 
    section img{
       display: inline-block;
+
    }
    
    nav, #content,
