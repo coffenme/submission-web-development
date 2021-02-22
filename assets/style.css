@@ -170,8 +170,8 @@ a.tmb-next{
    }
    h1{
       display: block;
-      align:center;
       margin: 0;
+      width: 100%;
    }
    h2, h5{
       display: block;
@@ -181,7 +181,6 @@ a.tmb-next{
       width: 100%;
       display: block;
    }
-
    nav, #content,
     aside {
         width: 100%;
