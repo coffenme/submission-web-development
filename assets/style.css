@@ -165,7 +165,7 @@ a.tmb-next{
     }
     
     .jumbotron{
-      width: 90%;
+      width: 100%;
     }
     h1 {
       display: block;
@@ -174,11 +174,11 @@ a.tmb-next{
    }
    h2,h5{
       display: block;
-      width: 50%;
+      width: 100%;
       align:center
    }
    nav.menu{
-      width: 80%;
+      width: 100%;
       margin: 0;
    }
    nav .menu ul{
@@ -195,7 +195,7 @@ a.tmb-next{
    }
    section img{
       display: block;
-      width: 40%;
+      width: 100%;
       height: auto;
    }
    footer{
