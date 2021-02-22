@@ -172,11 +172,11 @@ a.tmb-next{
       display: block;
       margin: 0;
       text-align: center;
-      width: 100%;
+      font-size: 40px;
    }
    nav .menu{
       margin: 0;
-      width: 100%;
+      width: 80%;
    }
    nav .menu ul{
       text-align: center;
