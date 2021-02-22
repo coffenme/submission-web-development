@@ -160,7 +160,14 @@ a.tmb-next{
  }
 
  @media screen and (max-width: 1000px) {
-    nav, #content,
+   section{
+      display: block;
+   } 
+   section img{
+      display: inline-block;
+   }
+   
+   nav, #content,
     aside {
         width: 100%;
         padding: 0;
