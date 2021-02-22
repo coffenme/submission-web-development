@@ -191,6 +191,8 @@ a.tmb-next{
    }
    section img{
       display: block;
+      width: 100%;
+      height: auto;
    }
     #content,
     aside {
