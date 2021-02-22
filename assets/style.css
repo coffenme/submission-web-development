@@ -211,7 +211,7 @@ a.tmb-next{
       display: inline-block;
       width: 100%;
    }
-   td,tr{
+   aside{
       display: block;
       margin: 0;
       text-align: center;
