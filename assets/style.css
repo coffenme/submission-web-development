@@ -160,48 +160,7 @@ a.tmb-next{
  }
 
  @media screen and (max-width: 1000px) {
-    nav{
-       width: 160%;
-    }
-    
-    .jumbotron{
-      width: 100%;
-    }
-    h1 {
-      display: block;
-      width: 100%;
-      align:center;
-   }
-   h2,h5{
-      display: block;
-      width: 100%;
-      align:center
-   }
-   nav.menu{
-      width: 100%;
-      margin: 0;
-   }
-   nav .menu ul{
-      text-align: center;
-      margin: auto;
-      line-height: 60px;
-   } 
-   nav .menu ul li{
-      display: inline-block;
-      float: none;
-   }
-   section{
-      display: block;
-   }
-   section img{
-      display: block;
-      width: 100%;
-      height: auto;
-   }
-   footer{
-      width: 100%;
-   }
-    #content,
+    nav, #content,
     aside {
         width: 100%;
         padding: 0;
