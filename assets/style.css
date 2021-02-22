@@ -126,6 +126,22 @@ section{
     color: #c86b85;
 }
 
+a.tmb-next{
+   background: lightblue;
+   border-radius: 20px;
+   margin-top: 20px;
+   padding: 15px 20px 15px 20px;
+   color: white;
+   font-weight: bold;
+   cursor: pointer;
+}
+
+.tmb-next:hover{
+   background: #9fb8ad;
+   text-decoration: none;
+   
+}
+
  #content {
     float: left;
     width: 60%;
