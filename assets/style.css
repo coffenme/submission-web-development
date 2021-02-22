@@ -56,7 +56,7 @@ p{
 }
  
  .card {
-    box-shadow: 0 4px 8px 0 rgba(172, 146, 146, 0.2);
+    box-shadow: 0 4px 8px 0 #1e212d;
     border-radius: 5px;
     padding: 20px;
     margin-top: 20px;
@@ -191,7 +191,7 @@ a.tmb-next{
    }
    section img{
       display: block;
-      width: 100%;
+      width: 50%;
       height: auto;
    }
     #content,
