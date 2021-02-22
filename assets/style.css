@@ -20,7 +20,7 @@ main {
    font-weight: bold;
    float: left;
    font-family:'RocknRoll One', sans-serif;
-   color: #aa4a30;
+   color: #383e56;
    margin-top: 0px;
    margin-bottom: 0px;
    margin-left: 0px;
@@ -67,7 +67,7 @@ p{
  }
 
 nav{
-    background-color: #e89f71;
+    background-color: #a1cae2;
     padding: 5px;
     width: 100%;
     display: flex;
@@ -204,6 +204,6 @@ a.tmb-next{
  footer {
     padding: 20px;
     color: #1e212d;
-    background-color: #e89f71;
+    background-color: #a1cae2;
     text-align: center;
  }
