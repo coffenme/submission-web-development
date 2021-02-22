@@ -171,7 +171,21 @@ a.tmb-next{
    h1{
       display: block;
       margin: 0;
+      text-align: center;
       width: 100%;
+   }
+   nav .menu{
+      margin: 0;
+      width: 100%;
+   }
+   nav .menu ul{
+      text-align: center;
+      margin: 0;
+      line-height: 40px;
+   }
+   nav .menu ul li{
+      display: inline-block;
+      float: none;
    }
    h2, h5{
       display: block;
@@ -185,6 +199,7 @@ a.tmb-next{
     aside {
         width: 100%;
         padding: 0;
+        text-align: center;
     }
  }
 
