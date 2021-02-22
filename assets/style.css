@@ -174,30 +174,7 @@ a.tmb-next{
       width: 50%;
       align:center
    }
-   nav.menu{
-      width: 80%;
-      margin: 0;
-   }
-   nav .menu ul{
-      text-align: center;
-      margin: auto;
-      line-height: 60px;
-   } 
-   nav .menu ul li{
-      display: inline-block;
-      float: none;
-   }
-   section{
-      display: block;
-   }
-   section img{
-      display: block;
-      width: 40%;
-      height: auto;
-   }
-   footer{
-      width: 100%;
-   }
+   
     #content,
     aside {
         width: 100%;
