@@ -168,6 +168,11 @@ a.tmb-next{
       display: inline-block;
       width: 100%;
    }
+   h1{
+      display: block;
+      align:center;
+      margin: 0;
+   }
    h2, h5{
       display: block;
       width: 80%;
