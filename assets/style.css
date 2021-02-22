@@ -123,7 +123,7 @@ section{
 
  #content {
     float: left;
-    width: 75%;
+    width: 40%;
  }
 
  aside {
@@ -153,10 +153,10 @@ section{
  }
 
  .featured-image {
-    width: 100%;
+    width: 60%;
     max-height: 300px;
-    object-fit: cover;
-    object-position: center;
+    object-fit:contain;
+    object-position: left;
  }
 
  .top {
