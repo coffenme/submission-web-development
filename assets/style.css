@@ -244,7 +244,8 @@ a.tmb-next{
       width: 100%;
       display: block;
    }
-   nav, #content{
+   nav, #content,
+    aside {
         width: 100%;
         padding: 0;
         text-align: center;
