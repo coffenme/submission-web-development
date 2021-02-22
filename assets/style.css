@@ -14,6 +14,17 @@ main {
     overflow: auto;
  }
  
+
+ h1  {
+   font-size: 70px;
+   font-weight: bold;
+   float: left;
+   font-family:'RocknRoll One', sans-serif;
+   color: #c86b85;
+   margin-top: 0px;
+   margin-bottom: 0px;
+   margin-left: 0px;
+} 
 h2{
     font-size: 40px;
     color:#c86b85 ;
@@ -29,15 +40,8 @@ h3 {
    color: #00a2c6
 }
 
-h1  {
-    font-size: 70px;
-    font-weight: bold;
-    float: left;
-    font-family:'RocknRoll One', sans-serif;
-    color: #c86b85;
-    margin-top: 0px;
-    margin-bottom: 0px;
-    margin-left: 0px;
+h4{
+   color: #00a2c6
 }
 
 p{
@@ -183,7 +187,7 @@ section{
 
  footer {
     padding: 20px;
-    color: white;
+    color: #1e212d;
     background-color: #f0d9ce;
     text-align: center;
  }
