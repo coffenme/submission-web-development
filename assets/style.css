@@ -6,7 +6,7 @@ body {
    font-family: 'Quicksand',sans-serif;
    margin: 0;
    padding: 0;
-   background-color: #f5eee6;
+   background-color: #b68973;
 }
  
 main {
@@ -123,7 +123,7 @@ section{
 
  #content {
     float: left;
-    width: 40%;
+    width: 80%;
  }
 
  aside {
