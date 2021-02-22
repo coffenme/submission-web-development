@@ -171,13 +171,17 @@ a.tmb-next{
    h2, h5{
       display: block;
       width: 50%;
-
    }
-   
+   #jumbotron{
+      width: 100%;
+      display: block;
+   }
+
    nav, #content,
     aside {
         width: 100%;
         padding: 0;
+        display: block;
     }
  }
 
