@@ -160,7 +160,7 @@ a.tmb-next{
  }
 
  @media screen and (max-width: 1000px) {
-    .jumbotron{
+    nav.jumbotron{
       width 50%;
     }
     h1 {
@@ -170,7 +170,7 @@ a.tmb-next{
    }
    h2,h5{
       display: block;
-      width: 50%;
+      width: 30%;
       align:center
    }
    nav.menu{
