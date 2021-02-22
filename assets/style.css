@@ -151,56 +151,12 @@ a.tmb-next{
 
  aside {
     float: right;
-    width: 40%;
+    width: 30%;
     padding-left: 20px;
  }
 
  * {
     box-sizing: border-box;
- }
-
- @media screen and (max-width: 1000px) {
-   section{
-      display: block;
-      height: auto;
-   } 
-   section img{
-      display: inline-block;
-      width: 100%;
-   }
-   h1{
-      display: block;
-      margin: 0;
-      text-align: center;
-      width: 100%;
-   }
-   nav .menu{
-      margin: 0;
-      width: 100%;
-   }
-   nav .menu ul{
-      text-align: center;
-      margin: 0;
-      line-height: 40px;
-   }
-   nav .menu ul li{
-      display: inline-block;
-      float: none;
-   }
-   h2, h5{
-      display: block;
-      width: 80%;
-   }
-   .jumbotron{
-      width: 100%;
-      display: block;
-   }
-   nav, #content,
-    aside {
-        width: 100%;
-        padding: 0;
-        text-align: justify;
-    }
  }
 
  .profile header {
@@ -246,5 +202,54 @@ a.tmb-next{
     text-align: center;
  }
 
- 
+ @media screen and (max-width: 1000px) {
+   section{
+      display: block;
+      height: auto;
+   } 
+   section img{
+      display: inline-block;
+      width: 100%;
+   }
+   section table{
+      display: block;
+      margin: 0;
+      text-align: justify;
+      width: 80%;
+   }
+   h1{
+      display: block;
+      margin: 0;
+      text-align: center;
+      width: 100%;
+   }
+   nav .menu{
+      margin: 0;
+      width: 100%;
+   }
+   nav .menu ul{
+      text-align: center;
+      margin: 0;
+      line-height: 40px;
+   }
+   nav .menu ul li{
+      display: inline-block;
+      float: none;
+   }
+   h2, h5{
+      display: block;
+      width: 80%;
+   }
+   .jumbotron{
+      width: 100%;
+      display: block;
+   }
+   nav, #content,
+    aside {
+        width: 100%;
+        padding: 0;
+        text-align: left;
+    }
+ }
+
 
