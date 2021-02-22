@@ -6,7 +6,7 @@ body {
    font-family: 'Quicksand',sans-serif;
    margin: 0;
    padding: 0;
-   background-color: #e89f71;
+   background-color: #edcfa9;
 }
  
 main {
@@ -20,14 +20,14 @@ main {
    font-weight: bold;
    float: left;
    font-family:'RocknRoll One', sans-serif;
-   color: #c86b85;
+   color: #aa4a30;
    margin-top: 0px;
    margin-bottom: 0px;
    margin-left: 0px;
 } 
 h2{
     font-size: 40px;
-    color:#c86b85 ;
+    color:#aa4a30 ;
     font-weight: 800;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-bottom: 20px;
