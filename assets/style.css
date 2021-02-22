@@ -166,6 +166,7 @@ a.tmb-next{
    } 
    section img{
       display: inline-block;
+      width: 50%;
    }
    h2, h5{
       display: block;
