@@ -160,8 +160,8 @@ a.tmb-next{
  }
 
  @media screen and (max-width: 1000px) {
-    .jumbotron{
-      width 80%;
+    nav.jumbotron{
+      width 90%;
       display: block;
     }
     h1 {
@@ -174,10 +174,6 @@ a.tmb-next{
       width: 30%;
       align:center
    }
-   nav{
-      width: 80%;
-   }
-
    nav.menu{
       width: 80%;
       margin: 0;
@@ -196,8 +192,12 @@ a.tmb-next{
    }
    section img{
       display: block;
-      width: 40%;
+      width: 50%;
       height: auto;
+   }
+   footer{
+      display: block;
+      width: 100%;
    }
     #content,
     aside {
