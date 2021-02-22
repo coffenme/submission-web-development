@@ -163,10 +163,15 @@ a.tmb-next{
     .jumbotron{
       width 90%;
     }
-    h1 a{
+    h1 {
       display: block;
       width: 100%;
       align:center;
+   }
+   h2{
+      display: block;
+      width: 50%;
+      align:center
    }
    nav.menu{
       width: 100%;
