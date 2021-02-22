@@ -214,8 +214,8 @@ a.tmb-next{
    aside{
       display: block;
       margin: 0;
-      text-align: center;
-      width: 80%;
+      text-align: justify;
+      width: 110%;
    }
    h1,h3{
       display: block;
