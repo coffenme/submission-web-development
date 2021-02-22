@@ -6,7 +6,7 @@ body {
    font-family: 'Quicksand',sans-serif;
    margin: 0;
    padding: 0;
-   background-color: #faf3e0;
+   background-color: #f7f3ea;
 }
  
 main {
@@ -139,7 +139,7 @@ a.tmb-next{
 .tmb-next:hover{
    background: #9fb8ad;
    text-decoration: none;
-   
+
 }
 
  #content {
