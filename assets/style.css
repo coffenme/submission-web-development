@@ -211,13 +211,13 @@ a.tmb-next{
       display: inline-block;
       width: 100%;
    }
-   section table{
+   td,tr{
       display: block;
       margin: 0;
       text-align: center;
       width: 80%;
    }
-   h1{
+   h1,h3{
       display: block;
       margin: 0;
       text-align: center;
@@ -244,8 +244,7 @@ a.tmb-next{
       width: 100%;
       display: block;
    }
-   nav, #content,
-    aside {
+   nav, #content{
         width: 100%;
         padding: 0;
         text-align: center;
